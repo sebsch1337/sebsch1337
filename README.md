@@ -1,5 +1,5 @@
 # Hi, I'm Sebastian
-![A pic of me](https://avatars.githubusercontent.com/u/75478893?s=200&u=840817058cf2907e3ef6e51726fd2b42cbbbd535&v=4)
+![A pic of me](profilepic.jpg)
 
 🚧 *Student Web Developer at NeueFische*
 ```javascript
