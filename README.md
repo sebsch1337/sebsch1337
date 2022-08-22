@@ -20,5 +20,4 @@ const $computerScienceExpert = {
 ---
 
 ### 📇 Add me on...
-[LinkedIn](https://www.linkedin.com/sebastianscherbes)
-[Xing](https://www.xing.com/sebastianscherbes)
+[LinkedIn](https://www.linkedin.com/sebastianscherbes) · [Xing](https://www.xing.com/sebastianscherbes)
