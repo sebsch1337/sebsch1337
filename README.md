@@ -29,7 +29,13 @@ const $computerScienceExpert = {
 ```
 
 ## 🚀 Projects
-<a href='https://github.com/sebsch1337/tripinary'><img width="16px" alt="tripinary" src="https://user-images.githubusercontent.com/75478893/207782009-359706cf-e1c3-406b-bc50-7bc37da4fab4.svg"> <strong>TRIPINARY</strong> - Your Next.js Travel Planner</a>
+<a href='https://github.com/sebsch1337/tripinary'><img width="16px" alt="Tripinary" src="https://user-images.githubusercontent.com/75478893/207782009-359706cf-e1c3-406b-bc50-7bc37da4fab4.svg"> <strong>TRIPINARY</strong> - Your Next.js Travel Planner</a>
+
+<a href='https://github.com/sebsch1337/react-and-morty'><img width="16px" alt="React & Morty" src="https://github.com/sebsch1337/react-and-morty/blob/main/public/logo192.png"> <strong>React & Morty</strong> - All characters from Rick & Morty</a>
+
+<a href='https://github.com/sebsch1337/color-saver-app'>🎨 <strong>Color Saver App</strong> - Create your hex palette</a>
+
+
 
 ## 🤝 Add me on...
 <a href='https://www.linkedin.com/in/sebastianscherbes'><img width="16px" alt="LinkedIn" src="https://user-images.githubusercontent.com/75478893/207784158-3605d252-ed66-46c7-a8a1-f0f45fd9b344.svg"> <strong>LinkedIn</strong></a>
