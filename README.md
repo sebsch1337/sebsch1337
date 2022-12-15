@@ -1,29 +1,37 @@
-# Hi, I'm Sebastian
-![A pic of me](profilepic.jpg)
+<p align="center"><img width="300px" alt="image" src="https://user-images.githubusercontent.com/75478893/207780397-2fbbf2b5-c7a1-4637-a79a-79aff2388a72.png"></p>
+<h3 align="center">Hi, I'm Sebastian!</h3>
+<h6 align="center">Web Developer · IT Engineer</p>
 
-🚧 *Student Web Developer at NeueFische*
+### 🕸️ Web Developer
 ```javascript
 const $webDeveloper = {
-    started: 2022,
-    description: 'Software Entwickler - Web Entwickler'
+    since: 2020,
+    graduated: 2022,
+    description: 'Software Engineer - Web Developer',
+    technologies: ['JavaScript', 'NextJS', 'React', 'MongoDB', 'SQL', 'Styled-Components'],
+    tools: ['VS Code', 'Figma', 'Git', 'Shell']
  }
 ```
 
-🧑‍💻 *Computer Science Expert*
+### 💻 Computer Science Expert
 
 ```javascript
 const $computerScienceExpert = {
-    since: 2008,
+    since: 2005,
+    graduated: 2008,
     description: 'Fachinformatiker - Systemintegration',
     technologies: ['Windows Server', 'Windows Client', 'Citrix', 'MS Azure', 'Matrix42', 'AutoIT'],
     experience: {
-                  itService: ['1st-Level-Support', '2nd-Level-Support', 'OS automation', 'Software deployment', 'Hardware deployment'],
-                  cloudEngineer : ['Virtual-Infrastructure', 'Citrix', 'vmWare', 'ThinClients']
+                  clientEngineer: ['IT-Administration', 'OS Automation', 'Software Deployment', 'Hardware Deployment'],
+                  cloudEngineer: ['Virtual Infrastructure', 'Microsoft Azure', 'Citrix', 'VMware', 'Thin Clients']
     }
  }
 ```
 
----
+## 🚀 Projects
+<a href='https://github.com/sebsch1337/tripinary'><img width="16px" alt="tripinary" src="https://user-images.githubusercontent.com/75478893/207782009-359706cf-e1c3-406b-bc50-7bc37da4fab4.svg"> <strong>TRIPINARY</strong> - Your Next.js Travel Planner</a>
 
-### 📇 Add me on...
-[LinkedIn](https://www.linkedin.com/sebastianscherbes) · [Xing](https://www.xing.com/sebastianscherbes)
+## 🤝 Add me on...
+<a href='https://www.linkedin.com/sebastianscherbes'><img width="16px" alt="LinkedIn" src="https://user-images.githubusercontent.com/75478893/207784158-3605d252-ed66-46c7-a8a1-f0f45fd9b344.svg"> <strong>LinkedIn</strong></a>
+
+<a href='https://www.xing.com/sebastianscherbes'><img width="14px" alt="Xing" src="https://user-images.githubusercontent.com/75478893/207784362-ea7c5e62-6f59-48bd-9eab-28cf1f100047.svg"> <strong>Xing</strong></a>
