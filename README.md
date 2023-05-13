@@ -6,9 +6,9 @@
 ```javascript
 const $webDeveloper = {
     since: 2020,
-    graduated: 2022,
+    certified: 2022,
     description: 'Software Engineer - Web Developer',
-    technologies: ['JavaScript', 'NextJS', 'React', 'MongoDB', 'SQL', 'Styled-Components'],
+    technologies: ['JavaScript', TypeScript', 'NextJS', 'React', 'MongoDB', 'SQL', 'Styled-Components', 'Mantine'],
     tools: ['VS Code', 'Figma', 'Git', 'Shell']
  }
 ```
