@@ -8,7 +8,7 @@ const $webDeveloper = {
     since: 2020,
     certified: 2022,
     description: 'Software Engineer - Web Developer',
-    technologies: ['JavaScript', 'TypeScript', 'NextJS', 'React', 'MongoDB', 'SQL', 'Styled-Components', 'Mantine'],
+    technologies: ['JavaScript', 'TypeScript', 'Next.js', 'React', 'Auth.js', 'MongoDB', 'SQL', 'Styled-Components', 'Mantine'],
     tools: ['VS Code', 'Figma', 'Git', 'Shell']
  }
 ```
@@ -29,6 +29,8 @@ const $computerScienceExpert = {
 ```
 
 ## 🚀 Projects
+<a href='https://github.com/sebsch1337/meetin'><img width="16px" alt="MeetIn" src="https://raw.githubusercontent.com/sebsch1337/meetin/9e9edbe2a22c792462e5578e01248e8fb28e4da3/assets/logo.svg"> <strong>MeetIn</strong> - Open Source Meetup Management Platform</a>
+
 <a href='https://github.com/sebsch1337/tripinary'><img width="16px" alt="Tripinary" src="https://user-images.githubusercontent.com/75478893/207782009-359706cf-e1c3-406b-bc50-7bc37da4fab4.svg"> <strong>TRIPINARY</strong> - Your Next.js Travel Planner</a>
 
 <a href='https://github.com/sebsch1337/react-and-morty'><img width="16px" alt="React & Morty" src="https://github.com/sebsch1337/react-and-morty/blob/main/public/logo192.png"> <strong>React & Morty</strong> - All characters from Rick & Morty</a>
@@ -37,7 +39,7 @@ const $computerScienceExpert = {
 
 
 
-## 🤝 Add me on...
+## 🤝 Get In Touch
 <a href='https://www.linkedin.com/in/sebastianscherbes'><img width="16px" alt="LinkedIn" src="https://user-images.githubusercontent.com/75478893/207784158-3605d252-ed66-46c7-a8a1-f0f45fd9b344.svg"> <strong>LinkedIn</strong></a>
 
 <a href='https://www.xing.com/profile/Sebastian_Scherbes'><img width="14px" alt="Xing" src="https://user-images.githubusercontent.com/75478893/207784362-ea7c5e62-6f59-48bd-9eab-28cf1f100047.svg"> <strong>Xing</strong></a>
