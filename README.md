@@ -1,4 +1,4 @@
-<p align="center"><img width="300px" alt="image" src="https://user-images.githubusercontent.com/75478893/207780397-2fbbf2b5-c7a1-4637-a79a-79aff2388a72.png"></p>
+<p align="center"><img width="300px" alt="image" src="./profilePic.png"></p>
 <h3 align="center">Hi, I'm Sebastian!</h3>
 <h6 align="center">Web Developer · IT Engineer</p>
 
