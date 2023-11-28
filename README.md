@@ -8,7 +8,7 @@ const $webDeveloper = {
     since: 2020,
     certified: 2022,
     description: 'Software Engineer - Web Developer',
-    technologies: ['JavaScript', 'TypeScript', 'Next.js', 'React', ,'TailwindCSS', 'Auth.js', 'MongoDB', 'SQL', 'Styled-Components', 'Mantine', 'shadcn/ui'],
+    technologies: ['JavaScript', 'TypeScript', 'Next.js', 'React', ,'TailwindCSS', 'Auth.js', 'MongoDB', 'SQL', 'Prisma', 'Styled-Components', 'Mantine', 'shadcn/ui'],
     tools: ['VS Code', 'Figma', 'Git', 'Shell']
  }
 ```
@@ -29,6 +29,8 @@ const $computerScienceExpert = {
 ```
 
 ## 🚀 Projects
+<a href='https://github.com/sebsch1337/boardly'><img width="16px" alt="Noot" src="https://github.com/sebsch1337/boardly/blob/main/public/logo.svg"> <strong>Boardly</strong> - Move work forward</a>
+
 <a href='https://github.com/sebsch1337/noot'><img width="16px" alt="Noot" src="https://github.com/sebsch1337/noot/blob/main/public/logo.svg"> <strong>Noot</strong> - Your Ideas, Documents and Plans</a>
 
 <a href='https://github.com/sebsch1337/meetin'><img width="16px" alt="MeetIn" src="https://raw.githubusercontent.com/sebsch1337/meetin/9e9edbe2a22c792462e5578e01248e8fb28e4da3/assets/logo.svg"> <strong>MeetIn</strong> - Open Source Meetup Management Platform</a>
