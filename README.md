@@ -29,7 +29,9 @@ const $computerScienceExpert = {
 ```
 
 ## 🚀 Projects
-<a href='https://github.com/sebsch1337/boardly'><img width="16px" alt="Noot" src="https://github.com/sebsch1337/boardly/blob/main/public/logo.svg"> <strong>Boardly</strong> - Move work forward</a>
+<a href='https://github.com/sebsch1337/auth'><img width="16px" alt="Auth" src="https://github.com/sebsch1337/auth/blob/main/public/logo.svg"> <strong>Auth</strong> - A Reusable Authentication Codebase For Your Next(.js) Project</a>
+
+<a href='https://github.com/sebsch1337/boardly'><img width="16px" alt="Noot" src="https://github.com/sebsch1337/boardly/blob/main/public/logo.svg"> <strong>Boardly</strong> - Move Work Forward</a>
 
 <a href='https://github.com/sebsch1337/noot'><img width="16px" alt="Noot" src="https://github.com/sebsch1337/noot/blob/main/public/logo.svg"> <strong>Noot</strong> - Your Ideas, Documents and Plans</a>
 
@@ -37,9 +39,9 @@ const $computerScienceExpert = {
 
 <a href='https://github.com/sebsch1337/tripinary'><img width="16px" alt="Tripinary" src="https://user-images.githubusercontent.com/75478893/207782009-359706cf-e1c3-406b-bc50-7bc37da4fab4.svg"> <strong>TRIPINARY</strong> - Your Next.js Travel Planner</a>
 
-<a href='https://github.com/sebsch1337/react-and-morty'><img width="16px" alt="React & Morty" src="https://github.com/sebsch1337/react-and-morty/blob/main/public/logo192.png"> <strong>React & Morty</strong> - All characters from Rick & Morty</a>
+<a href='https://github.com/sebsch1337/react-and-morty'><img width="16px" alt="React & Morty" src="https://github.com/sebsch1337/react-and-morty/blob/main/public/logo192.png"> <strong>React & Morty</strong> - All Characters From Rick & Morty</a>
 
-<a href='https://github.com/sebsch1337/color-saver-app'>🎨 <strong>Color Saver App</strong> - Create your hex palette</a>
+<a href='https://github.com/sebsch1337/color-saver-app'>🎨 <strong>Color Saver App</strong> - Create Your Hex Palette</a>
 
 
 
