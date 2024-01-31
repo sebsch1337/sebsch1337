@@ -1,8 +1,7 @@
-<p align="center"><img width="300px" alt="image" src="./profilePic.png"></p>
-<h3 align="center">Hi, I'm Sebastian!</h3>
-<h6 align="center">Web Developer · IT Engineer</p>
+[![Header](https://github.com/sebsch1337/sebsch1337/blob/main/banner.svg "Header")](https://github.com/sebsch1337)
 
-### 🕸️ Web Developer
+
+## 🕸️ Web Developer
 ```javascript
 const $webDeveloper = {
     since: 2020,
@@ -13,7 +12,7 @@ const $webDeveloper = {
  }
 ```
 
-### 💻 Computer Science Expert
+## 💻 Computer Science Expert
 
 ```javascript
 const $computerScienceExpert = {
