@@ -56,6 +56,15 @@ const $webDeveloper = {
 ![Static Badge](https://img.shields.io/badge/Dell-black?style=for-the-badge&logo=dell&labelColor=222A39&color=546991)
 ![Static Badge](https://img.shields.io/badge/Wise-black?style=for-the-badge&logo=wise&labelColor=222A39&color=546991)
 ![Static Badge](https://img.shields.io/badge/I-Igel-black?style=for-the-badge&labelColor=222A39&color=546991)
+![Static Badge](https://img.shields.io/badge/I-Ivanti-black?style=for-the-badge&labelColor=222A39&color=546991)
+
+### Skills
+![Static Badge](https://img.shields.io/badge/IT_Administration-black?style=for-the-badge&labelColor=222A39&color=546991)
+![Static Badge](https://img.shields.io/badge/OS_Automation-black?style=for-the-badge&labelColor=222A39&color=546991)
+![Static Badge](https://img.shields.io/badge/Virtual_Infrastructure-black?style=for-the-badge&labelColor=222A39&color=546991)
+![Static Badge](https://img.shields.io/badge/Hardware_Infrastructure-black?style=for-the-badge&labelColor=222A39&color=546991)
+![Static Badge](https://img.shields.io/badge/Software_Deployment-black?style=for-the-badge&labelColor=222A39&color=546991)
+
 
 ### Experience
 ```javascript
@@ -66,14 +75,21 @@ const $computerScienceExpert = {
                     EN: 'Computer Science Expert - System Integration',
                     DE: 'Fachinformatiker - Systemintegration',
     },
-    experience: {
-                  clientEngineer: ['IT-Administration', 'OS Automation', 'Software Deployment', 'Hardware Deployment'],
-                  cloudEngineer: ['Virtual Infrastructure', 'Microsoft Azure', 'Citrix', 'VMware', 'Thin Clients'],
-    },
  }
 ```
 
 ## 👔 IT Business Manager
+### Skills
+![Static Badge](https://img.shields.io/badge/Project_Management-black?style=for-the-badge&labelColor=222A39&color=546991)
+![Static Badge](https://img.shields.io/badge/HR_Management-black?style=for-the-badge&labelColor=222A39&color=546991)
+![Static Badge](https://img.shields.io/badge/IT_Law-black?style=for-the-badge&labelColor=222A39&color=546991)
+![Static Badge](https://img.shields.io/badge/Business_English-black?style=for-the-badge&labelColor=222A39&color=546991)
+![Static Badge](https://img.shields.io/badge/Marketing-black?style=for-the-badge&labelColor=222A39&color=546991)
+![Static Badge](https://img.shields.io/badge/Business_Process_Analysis-black?style=for-the-badge&labelColor=222A39&color=546991)
+![Static Badge](https://img.shields.io/badge/Trainer_Qualification-black?style=for-the-badge&labelColor=222A39&color=546991)
+![Static Badge](https://img.shields.io/badge/Self_Management-black?style=for-the-badge&labelColor=222A39&color=546991)
+
+
 ### Experience
 ```javascript
 const $itBusinessManager = {
@@ -83,7 +99,6 @@ const $itBusinessManager = {
                     EN: 'Bachelor Professional of IT Business Management (CCI)',
                     DE: 'Geprüfter IT-Projektleiter',
     },
-    experience: ['Project Management', 'HR Management', 'IT-Law', 'Business English', 'Marketing', 'Business Process Analysis', 'Trainer Qualification', 'Self Management'],
  }
 ```
 
