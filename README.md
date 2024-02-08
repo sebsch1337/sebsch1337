@@ -1,32 +1,5 @@
 [![Header](https://github.com/sebsch1337/sebsch1337/blob/main/banner.svg "Header")](https://github.com/sebsch1337)
 
-
-## 🕸️ Web Developer
-```javascript
-const $webDeveloper = {
-    since: 2020,
-    certified: 2022,
-    description: 'Software Engineer - Web Developer',
-    technologies: ['JavaScript', 'TypeScript', 'Next.js', 'React', ,'TailwindCSS', 'Auth.js', 'MongoDB', 'SQL', 'Prisma', 'Styled-Components', 'Mantine', 'shadcn/ui'],
-    tools: ['VS Code', 'Figma', 'Git', 'Shell']
- }
-```
-
-## 💻 Computer Science Expert
-
-```javascript
-const $computerScienceExpert = {
-    since: 2005,
-    graduated: 2008,
-    description: 'Fachinformatiker - Systemintegration',
-    technologies: ['Windows Server', 'Windows Client', 'Citrix', 'MS Azure', 'Matrix42', 'AutoIT'],
-    experience: {
-                  clientEngineer: ['IT-Administration', 'OS Automation', 'Software Deployment', 'Hardware Deployment'],
-                  cloudEngineer: ['Virtual Infrastructure', 'Microsoft Azure', 'Citrix', 'VMware', 'Thin Clients']
-    }
- }
-```
-
 ## 🚀 Projects
 <a href='https://github.com/sebsch1337/auth'><img width="16px" alt="Auth" src="https://github.com/sebsch1337/auth/blob/main/public/logo.svg"> <strong>Auth</strong> - A Reusable Authentication Codebase For Your Next(.js) Project</a>
 
@@ -42,7 +15,77 @@ const $computerScienceExpert = {
 
 <a href='https://github.com/sebsch1337/color-saver-app'>🎨 <strong>Color Saver App</strong> - Create Your Hex Palette</a>
 
+## 🕸️ Web Developer
+### Technologies
+![Static Badge](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&labelColor=222A39&color=546991)
+![Static Badge](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&labelColor=222A39&color=546991)
+![Static Badge](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&labelColor=222A39&color=546991)
+![Static Badge](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&labelColor=222A39&color=546991)
+![Static Badge](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=postgresql&labelColor=222A39&color=546991)
+![Static Badge](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&labelColor=222A39&color=546991)
+![Static Badge](https://img.shields.io/badge/Prisma-black?style=for-the-badge&logo=prisma&labelColor=222A39&color=546991)
+![Static Badge](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwindcss&labelColor=222A39&color=546991)
+![Static Badge](https://img.shields.io/badge/Styled--Components-black?style=for-the-badge&logo=styledcomponents&labelColor=222A39&color=546991)
+![Static Badge](https://img.shields.io/badge/Auth.js-black?style=for-the-badge&logo=nextdns&labelColor=222A39&color=546991)
+![Static Badge](https://img.shields.io/badge/Mantine-black?style=for-the-badge&logo=mantine&labelColor=222A39&color=546991)
+![Static Badge](https://img.shields.io/badge/Shadcn/ui-black?style=for-the-badge&logo=shadcnui&labelColor=222A39&color=546991)
 
+### Tools
+![Static Badge](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visualstudiocode&labelColor=222A39&color=546991)
+![Static Badge](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&labelColor=222A39&color=546991)
+![Static Badge](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&labelColor=222A39&color=546991)
+![Static Badge](https://img.shields.io/badge/Shell-black?style=for-the-badge&logo=gnubash&labelColor=222A39&color=546991)
+
+### Experience
+```javascript
+const $webDeveloper = {
+    started: 2020,
+    certified: 2022,
+    description: 'Software Engineer - Web Developer',
+ }
+```
+
+## 💻 Computer Science Expert
+### Technologies
+![Static Badge](https://img.shields.io/badge/Windows_Client/Server-black?style=for-the-badge&logo=windows&labelColor=222A39&color=546991)
+![Static Badge](https://img.shields.io/badge/Azure-black?style=for-the-badge&logo=microsoftazure&labelColor=222A39&color=546991)
+![Static Badge](https://img.shields.io/badge/PowerShell-black?style=for-the-badge&logo=powershell&labelColor=222A39&color=546991)
+![Static Badge](https://img.shields.io/badge/AutoIT-black?style=for-the-badge&logo=autoit&labelColor=222A39&color=546991)
+![Static Badge](https://img.shields.io/badge/Citrix-black?style=for-the-badge&logo=citrix&labelColor=222A39&color=546991)
+![Static Badge](https://img.shields.io/badge/VMware-black?style=for-the-badge&logo=vmware&labelColor=222A39&color=546991)
+![Static Badge](https://img.shields.io/badge/Dell-black?style=for-the-badge&logo=dell&labelColor=222A39&color=546991)
+![Static Badge](https://img.shields.io/badge/Wise-black?style=for-the-badge&logo=wise&labelColor=222A39&color=546991)
+![Static Badge](https://img.shields.io/badge/I-Igel-black?style=for-the-badge&labelColor=222A39&color=546991)
+
+### Experience
+```javascript
+const $computerScienceExpert = {
+    started: 2005,
+    graduated: 2008,
+    description: {
+                    EN: 'Computer Science Expert - System Integration',
+                    DE: 'Fachinformatiker - Systemintegration',
+    },
+    experience: {
+                  clientEngineer: ['IT-Administration', 'OS Automation', 'Software Deployment', 'Hardware Deployment'],
+                  cloudEngineer: ['Virtual Infrastructure', 'Microsoft Azure', 'Citrix', 'VMware', 'Thin Clients'],
+    },
+ }
+```
+
+## 👔 IT Business Manager
+### Experience
+```javascript
+const $itBusinessManager = {
+    started: 2013,
+    graduated: 2015,
+    description: {
+                    EN: 'Bachelor Professional of IT Business Management (CCI)',
+                    DE: 'Geprüfter IT-Projektleiter',
+    },
+    experience: ['Project Management', 'HR Management', 'IT-Law', 'Business English', 'Marketing', 'Business Process Analysis', 'Trainer Qualification', 'Self Management'],
+ }
+```
 
 ## 🤝 Get In Touch
 <a href='https://www.linkedin.com/in/sebastianscherbes'><img width="16px" alt="LinkedIn" src="https://user-images.githubusercontent.com/75478893/207784158-3605d252-ed66-46c7-a8a1-f0f45fd9b344.svg"> <strong>LinkedIn</strong></a>
