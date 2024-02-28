@@ -38,7 +38,7 @@
 
 ### Experience
 ```javascript
-const $webDeveloper = {
+const webDeveloper = {
     started: 2020,
     certified: 2022,
     description: 'Software Engineer - Web Developer',
@@ -68,7 +68,7 @@ const $webDeveloper = {
 
 ### Experience
 ```javascript
-const $computerScienceExpert = {
+const computerScienceExpert = {
     started: 2005,
     graduated: 2008,
     description: {
@@ -92,7 +92,7 @@ const $computerScienceExpert = {
 
 ### Experience
 ```javascript
-const $itBusinessManager = {
+const itBusinessManager = {
     started: 2013,
     graduated: 2015,
     description: {
