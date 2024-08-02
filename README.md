@@ -1,6 +1,8 @@
 [![Header](https://github.com/sebsch1337/sebsch1337/blob/main/banner.svg "Header")](https://github.com/sebsch1337)
 
 ## 🚀 Projects
+<a href='https://github.com/sebsch1337/pixpass'><img width="16px" alt="PixPass" src="https://github.com/sebsch1337/pixpass/blob/main/logo.svg"> <strong>PixPass</strong> - Simply Print Your Passport Photos In Any Size</a>
+
 <a href='https://github.com/sebsch1337/auth'><img width="16px" alt="Auth" src="https://github.com/sebsch1337/auth/blob/main/public/logo.svg"> <strong>Auth</strong> - A Reusable Authentication Codebase For Your Next(.js) Project</a>
 
 <a href='https://github.com/sebsch1337/boardly'><img width="16px" alt="Noot" src="https://github.com/sebsch1337/boardly/blob/main/public/logo.svg"> <strong>Boardly</strong> - Move Work Forward</a>
