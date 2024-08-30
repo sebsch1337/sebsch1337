@@ -1,7 +1,7 @@
 [![Header](https://github.com/sebsch1337/sebsch1337/blob/main/banner.svg "Header")](https://github.com/sebsch1337)
 
 ## 🚀 Projects
-<a href='https://github.com/sebsch1337/world-travellers'><img width="16px" alt="World Travellers" src="https://github.com/sebsch1337/world-travellers/blob/main/public/logo.svg" /> <strong>World Travellers</strong> - Find the Perfect Travel Insurance with World Travellers CareAdvisor</a>
+<a href='https://github.com/sebsch1337/world-travellers'><img width="16px" alt="World Travellers" src="https://github.com/sebsch1337/world-travellers/blob/main/public/logo.svg" /> <strong>World Travellers CareAdvisor</strong> - The AI Powered Insurance Chatbot</a>
 
 <a href='https://github.com/sebsch1337/pixpass'><img width="16px" alt="PixPass" src="https://github.com/sebsch1337/pixpass/blob/main/logo.svg"> <strong>PixPass</strong> - Simply Print Your Passport Photos In Any Size</a>
 
