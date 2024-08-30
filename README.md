@@ -3,7 +3,7 @@
 ## 🚀 Projects
 <a href='https://github.com/sebsch1337/world-travellers'><img width="16px" alt="World Travellers" src="https://github.com/sebsch1337/world-travellers/blob/main/public/logo.svg" /> <strong>World Travellers CareAdvisor</strong> - The AI Powered Insurance Chatbot</a>
 
-<a href='https://github.com/sebsch1337/pixpass'><img width="16px" alt="PixPass" src="https://github.com/sebsch1337/pixpass/blob/main/logo.svg"> <strong>PixPass</strong> - Simply Print Your Passport Photos In Any Size</a>
+<a href='https://github.com/sebsch1337/pixpass'><img width="16px" alt="PixPass" src="https://github.com/sebsch1337/pixpass/blob/main/logo.svg"> <strong>PixPass</strong> - Self-Print Passport Photos, Verified by AI</a>
 
 <a href='https://github.com/sebsch1337/auth'><img width="16px" alt="Auth" src="https://github.com/sebsch1337/auth/blob/main/public/logo.svg"> <strong>Auth</strong> - A Reusable Authentication Codebase For Your Next(.js) Project</a>
 
